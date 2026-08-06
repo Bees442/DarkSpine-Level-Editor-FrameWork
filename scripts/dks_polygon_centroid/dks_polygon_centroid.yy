@@ -1,12 +1,13 @@
 {
-  "isDnD": false,
-  "isCompatibility": false,
-  "parent": {
-    "name": "MATHS",
-    "path": "folders/Scripts/DARKSPINE/DARKSPINE CORE/MATHS.yy",
+  "$GMScript":"v1",
+  "%Name":"dks_polygon_centroid",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"dks_polygon_centroid",
+  "parent":{
+    "name":"MATHS",
+    "path":"folders/Scripts/DARKSPINE/DARKSPINE CORE/MATHS.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "dks_polygon_centroid",
-  "tags": [],
-  "resourceType": "GMScript",
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

@@ -1,12 +1,13 @@
 {
-  "isDnD": false,
-  "isCompatibility": false,
-  "parent": {
-    "name": "PARTICLE SYSTEM",
-    "path": "folders/Scripts/DARKSPINE/DARKSPINE CORE/PARTICLE SYSTEM.yy",
+  "$GMScript":"v1",
+  "%Name":"dks_particle_system_destroy",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"dks_particle_system_destroy",
+  "parent":{
+    "name":"PARTICLE SYSTEM",
+    "path":"folders/Scripts/DARKSPINE/DARKSPINE CORE/PARTICLE SYSTEM.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "dks_particle_system_destroy",
-  "tags": [],
-  "resourceType": "GMScript",
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

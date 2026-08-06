@@ -1,11 +1,12 @@
 {
-  "type": 1,
-  "parent": {
-    "name": "DARKSPINE",
-    "path": "folders/Shaders/DARKSPINE.yy",
+  "$GMShader":"",
+  "%Name":"shd_ripple",
+  "name":"shd_ripple",
+  "parent":{
+    "name":"DARKSPINE",
+    "path":"folders/Shaders/DARKSPINE.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "shd_ripple",
-  "tags": [],
-  "resourceType": "GMShader",
+  "resourceType":"GMShader",
+  "resourceVersion":"2.0",
+  "type":1,
 }

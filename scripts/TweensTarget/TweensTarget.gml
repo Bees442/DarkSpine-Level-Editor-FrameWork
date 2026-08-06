@@ -14,7 +14,11 @@ function TweensTarget(argument0) {
 	        TweenResume(TweensTarget(obj_Player));
 	*/
 
-	return "3"+string(argument0);
+	// GM 2026 changed string(instance) from "100010" to "ref instance 100010",
+	// which broke the numeric round-trip in TGMS_TweensExecute. real() accepts
+	// both instance references and object indices and always yields the bare
+	// numeric id, so encode through it rather than through string().
+	return "3"+string(real(argument0));
 
 
 

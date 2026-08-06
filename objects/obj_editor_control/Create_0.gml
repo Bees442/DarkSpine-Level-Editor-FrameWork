@@ -74,8 +74,24 @@ button_play[1][1] = 0;// y1
 button_play[1][2] = 128;// x2
 button_play[1][3] = 64;//y2
 
-is_playing = false; 
+is_playing = false;
 t_var1 =0;
+
+// FPS readout state. Global rather than instance-scoped so the toggle
+// survives the editor <-> play transition, where obj_deco_creator is
+// destroyed and rebuilt but the preference should persist.
+if (!variable_global_exists("show_fps"))
+{
+ global.show_fps = false;
+ global.fps_smooth = 0;
+}
+// dks_draw_fps reads the global.ui_* palette. That is normally set up by
+// dks_editor_init via obj_deco_creator, which does not exist when a level
+// runs standalone -- so make sure the theme is loaded either way.
+if (!variable_global_exists("ui_bg"))
+{
+ dks_theme();
+}
 
 //directorys
 if !directory_exists(working_directory + "DarkSpine\\Levels")

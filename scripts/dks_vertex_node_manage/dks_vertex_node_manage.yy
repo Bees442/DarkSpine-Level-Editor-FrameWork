@@ -1,12 +1,13 @@
 {
-  "isDnD": false,
-  "isCompatibility": false,
-  "parent": {
-    "name": "NODES",
-    "path": "folders/Scripts/DARKSPINE/DARKSPINE CORE/NODES.yy",
+  "$GMScript":"v1",
+  "%Name":"dks_vertex_node_manage",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"dks_vertex_node_manage",
+  "parent":{
+    "name":"NODES",
+    "path":"folders/Scripts/DARKSPINE/DARKSPINE CORE/NODES.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "dks_vertex_node_manage",
-  "tags": [],
-  "resourceType": "GMScript",
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

@@ -15,5 +15,5 @@ if(show_interface)
  }
  //reset gpu color
  draw_set_colour(c_white);
-} 
+}
 

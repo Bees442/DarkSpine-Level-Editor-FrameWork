@@ -1,12 +1,13 @@
 {
-  "isDnD": false,
-  "isCompatibility": false,
-  "parent": {
-    "name": "Misc",
-    "path": "folders/Scripts/DARKSPINE/DARKSPINE CORE/MATRIX SYSTEMS/Misc.yy",
+  "$GMScript":"v1",
+  "%Name":"dks_matrix_update",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"dks_matrix_update",
+  "parent":{
+    "name":"Misc",
+    "path":"folders/Scripts/DARKSPINE/DARKSPINE CORE/MATRIX SYSTEMS/Misc.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "dks_matrix_update",
-  "tags": [],
-  "resourceType": "GMScript",
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

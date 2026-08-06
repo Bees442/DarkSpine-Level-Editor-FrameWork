@@ -1,12 +1,13 @@
 {
-  "isDnD": false,
-  "isCompatibility": false,
-  "parent": {
-    "name": "Support (DO NOT TOUCH)",
-    "path": "folders/Scripts/DARKSPINE/TweenGMS/Support (DO NOT TOUCH).yy",
+  "$GMScript":"v1",
+  "%Name":"TweenForcePropertyUpdate",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"TweenForcePropertyUpdate",
+  "parent":{
+    "name":"Support (DO NOT TOUCH)",
+    "path":"folders/Scripts/DARKSPINE/TweenGMS/Support (DO NOT TOUCH).yy",
   },
-  "resourceVersion": "1.0",
-  "name": "TweenForcePropertyUpdate",
-  "tags": [],
-  "resourceType": "GMScript",
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

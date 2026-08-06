@@ -1,12 +1,13 @@
 {
-  "isDnD": false,
-  "isCompatibility": false,
-  "parent": {
-    "name": "Data Structures",
-    "path": "folders/Scripts/DARKSPINE/TweenGMS/Enhanced Properties/Default Properties/Data Structures.yy",
+  "$GMScript":"v1",
+  "%Name":"TPMap",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"TPMap",
+  "parent":{
+    "name":"Data Structures",
+    "path":"folders/Scripts/DARKSPINE/TweenGMS/Enhanced Properties/Default Properties/Data Structures.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "TPMap",
-  "tags": [],
-  "resourceType": "GMScript",
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

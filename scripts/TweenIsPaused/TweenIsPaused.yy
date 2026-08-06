@@ -1,12 +1,13 @@
 {
-  "isDnD": false,
-  "isCompatibility": false,
-  "parent": {
-    "name": "Tween State",
-    "path": "folders/Scripts/DARKSPINE/TweenGMS/Tweening/Tween State.yy",
+  "$GMScript":"v1",
+  "%Name":"TweenIsPaused",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"TweenIsPaused",
+  "parent":{
+    "name":"Tween State",
+    "path":"folders/Scripts/DARKSPINE/TweenGMS/Tweening/Tween State.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "TweenIsPaused",
-  "tags": [],
-  "resourceType": "GMScript",
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

@@ -1,12 +1,13 @@
 {
-  "isDnD": false,
-  "isCompatibility": false,
-  "parent": {
-    "name": "EDIT MODE",
-    "path": "folders/Scripts/DARKSPINE/DARKSPINE CORE/EDIT MODE.yy",
+  "$GMScript":"v1",
+  "%Name":"dks_setter_variable",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"dks_setter_variable",
+  "parent":{
+    "name":"EDIT MODE",
+    "path":"folders/Scripts/DARKSPINE/DARKSPINE CORE/EDIT MODE.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "dks_setter_variable",
-  "tags": [],
-  "resourceType": "GMScript",
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

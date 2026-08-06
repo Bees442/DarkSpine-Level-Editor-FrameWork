@@ -1,12 +1,13 @@
 {
-  "isDnD": false,
-  "isCompatibility": false,
-  "parent": {
-    "name": "OBJECT MANAGMENT",
-    "path": "folders/Scripts/DARKSPINE/DARKSPINE CORE/OBJECT MANAGMENT.yy",
+  "$GMScript":"v1",
+  "%Name":"dks_object_multi_copy_paste",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"dks_object_multi_copy_paste",
+  "parent":{
+    "name":"OBJECT MANAGMENT",
+    "path":"folders/Scripts/DARKSPINE/DARKSPINE CORE/OBJECT MANAGMENT.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "dks_object_multi_copy_paste",
-  "tags": [],
-  "resourceType": "GMScript",
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

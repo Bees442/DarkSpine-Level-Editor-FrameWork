@@ -1,12 +1,13 @@
 {
-  "isDnD": false,
-  "isCompatibility": false,
-  "parent": {
-    "name": "OBJECT MANAGMENT",
-    "path": "folders/Scripts/DARKSPINE/DARKSPINE CORE/OBJECT MANAGMENT.yy",
+  "$GMScript":"v1",
+  "%Name":"dks_child_activator",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"dks_child_activator",
+  "parent":{
+    "name":"OBJECT MANAGMENT",
+    "path":"folders/Scripts/DARKSPINE/DARKSPINE CORE/OBJECT MANAGMENT.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "dks_child_activator",
-  "tags": [],
-  "resourceType": "GMScript",
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

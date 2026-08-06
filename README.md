@@ -1,3 +1,8 @@
 # DarkSpine-Level-Editor-FrameWork
 A customized level editor framework directly inspired in the UbiArt FrameWork by UbiSoft, for GameMaker Studio.
 Because new lessons are learned every day, and unite we can make bigger progress. I feel that this project belongs to the whole world, without owners, without conditions. I hope you enjoy this editor and bring you a lot of happiness. Feel free to modify it, redistribute it, or sell an improved version of it. For gamers, I hope you can soon enjoy future contributions, stories ..... And that magic is preserved that leaves us all dazzled every time we unseal a video game and take the leading role, euphoric to discover new worlds. Much love for all.
+
+## Modern GameMaker compatibility
+
+Several things that worked on older runtimes broke on 2026, because validation that used to fail quietly now raises a hard error. These have been fixed:
+

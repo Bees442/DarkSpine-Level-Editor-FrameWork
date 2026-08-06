@@ -1,12 +1,13 @@
 {
-  "isDnD": false,
-  "isCompatibility": false,
-  "parent": {
-    "name": "EDIT MODE",
-    "path": "folders/Scripts/DARKSPINE/DARKSPINE CORE/EDIT MODE.yy",
+  "$GMScript":"v1",
+  "%Name":"dks_editor_scale_create",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"dks_editor_scale_create",
+  "parent":{
+    "name":"EDIT MODE",
+    "path":"folders/Scripts/DARKSPINE/DARKSPINE CORE/EDIT MODE.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "dks_editor_scale_create",
-  "tags": [],
-  "resourceType": "GMScript",
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

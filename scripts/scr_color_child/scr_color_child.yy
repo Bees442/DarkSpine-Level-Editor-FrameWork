@@ -1,12 +1,13 @@
 {
-  "isDnD": false,
-  "isCompatibility": false,
-  "parent": {
-    "name": "Misc",
-    "path": "folders/Scripts/DARKSPINE/DARKSPINE CORE/MATRIX SYSTEMS/Misc.yy",
+  "$GMScript":"v1",
+  "%Name":"scr_color_child",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_color_child",
+  "parent":{
+    "name":"Misc",
+    "path":"folders/Scripts/DARKSPINE/DARKSPINE CORE/MATRIX SYSTEMS/Misc.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "scr_color_child",
-  "tags": [],
-  "resourceType": "GMScript",
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

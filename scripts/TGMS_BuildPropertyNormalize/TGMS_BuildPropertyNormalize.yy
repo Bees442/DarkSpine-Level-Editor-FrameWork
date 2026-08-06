@@ -1,12 +1,13 @@
 {
-  "isDnD": false,
-  "isCompatibility": false,
-  "parent": {
-    "name": "Property Builders",
-    "path": "folders/Scripts/DARKSPINE/TweenGMS/Enhanced Properties/Property Builders.yy",
+  "$GMScript":"v1",
+  "%Name":"TGMS_BuildPropertyNormalize",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"TGMS_BuildPropertyNormalize",
+  "parent":{
+    "name":"Property Builders",
+    "path":"folders/Scripts/DARKSPINE/TweenGMS/Enhanced Properties/Property Builders.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "TGMS_BuildPropertyNormalize",
-  "tags": [],
-  "resourceType": "GMScript",
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

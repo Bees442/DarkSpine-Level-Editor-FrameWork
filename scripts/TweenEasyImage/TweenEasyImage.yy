@@ -1,12 +1,13 @@
 {
-  "isDnD": false,
-  "isCompatibility": false,
-  "parent": {
-    "name": "Easy Tweens",
-    "path": "folders/Scripts/DARKSPINE/TweenGMS/Easy Tweens.yy",
+  "$GMScript":"v1",
+  "%Name":"TweenEasyImage",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"TweenEasyImage",
+  "parent":{
+    "name":"Easy Tweens",
+    "path":"folders/Scripts/DARKSPINE/TweenGMS/Easy Tweens.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "TweenEasyImage",
-  "tags": [],
-  "resourceType": "GMScript",
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

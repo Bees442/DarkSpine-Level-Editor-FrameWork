@@ -24,16 +24,27 @@ if mouse_check_button_pressed(mb_right)
  }  
 } 
 
+// CTRL+F toggles the FPS readout. Handled here rather than only in
+// obj_deco_creator so it works while a level is playing, where the editor
+// object no longer exists. Guarded on obj_input so typing never flips it.
+if (keyboard_check_pressed(ord("F")) && keyboard_check(vk_control))
+{
+ if (!dks_input_object_get_active(obj_input))
+ {
+  global.show_fps = !global.show_fps;
+ }
+}
+
 // If we are in simulation mode, by pressing F6 you can draw the physics geometry of your objects
-if (is_playing)  
+if (is_playing)
 {
  if keyboard_check_pressed(vk_anykey)
  {
   switch(keyboard_key)
   {
    case vk_f6 : global.all_collision = !global.all_collision;break;
-  
-   
+
+
   }
  }
-}  
+}

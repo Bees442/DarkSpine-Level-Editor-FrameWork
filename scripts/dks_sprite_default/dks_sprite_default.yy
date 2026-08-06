@@ -1,12 +1,13 @@
 {
-  "isDnD": false,
-  "isCompatibility": false,
-  "parent": {
-    "name": "SPRITE MANAGER",
-    "path": "folders/Scripts/DARKSPINE/DARKSPINE CORE/SPRITE MANAGER.yy",
+  "$GMScript":"v1",
+  "%Name":"dks_sprite_default",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"dks_sprite_default",
+  "parent":{
+    "name":"SPRITE MANAGER",
+    "path":"folders/Scripts/DARKSPINE/DARKSPINE CORE/SPRITE MANAGER.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "dks_sprite_default",
-  "tags": [],
-  "resourceType": "GMScript",
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

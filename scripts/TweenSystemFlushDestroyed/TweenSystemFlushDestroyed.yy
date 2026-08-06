@@ -1,12 +1,13 @@
 {
-  "isDnD": false,
-  "isCompatibility": false,
-  "parent": {
-    "name": "System Utilities",
-    "path": "folders/Scripts/DARKSPINE/TweenGMS/System Utilities.yy",
+  "$GMScript":"v1",
+  "%Name":"TweenSystemFlushDestroyed",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"TweenSystemFlushDestroyed",
+  "parent":{
+    "name":"System Utilities",
+    "path":"folders/Scripts/DARKSPINE/TweenGMS/System Utilities.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "TweenSystemFlushDestroyed",
-  "tags": [],
-  "resourceType": "GMScript",
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

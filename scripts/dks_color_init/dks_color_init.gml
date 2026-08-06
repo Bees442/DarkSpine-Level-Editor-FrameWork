@@ -1,5 +1,9 @@
-function dks_color_init() 
+function dks_color_init()
 {
+	// Modern theme palette and metrics (global.ui_*). Defined first so any
+	// menu drawing code can rely on it; the legacy colours below are still
+	// used by the reels that have not been restyled yet.
+	dks_theme();
 	//colors
 	dark_gray = make_colour_rgb(84,84,84);
 	red_pastel = make_colour_rgb(163,57,57);

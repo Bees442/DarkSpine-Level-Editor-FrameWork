@@ -1,12 +1,13 @@
 {
-  "isDnD": false,
-  "isCompatibility": false,
-  "parent": {
-    "name": "TWEEN CUSTOM",
-    "path": "folders/Scripts/DARKSPINE/TweenGMS/TWEEN CUSTOM.yy",
+  "$GMScript":"v1",
+  "%Name":"ScreenZoom",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"ScreenZoom",
+  "parent":{
+    "name":"TWEEN CUSTOM",
+    "path":"folders/Scripts/DARKSPINE/TweenGMS/TWEEN CUSTOM.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "ScreenZoom",
-  "tags": [],
-  "resourceType": "GMScript",
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

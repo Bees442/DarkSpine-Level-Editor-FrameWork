@@ -1,12 +1,13 @@
 {
-  "isDnD": false,
-  "isCompatibility": false,
-  "parent": {
-    "name": "Global",
-    "path": "folders/Scripts/DARKSPINE/TweenGMS/Enhanced Properties/Default Properties/Global.yy",
+  "$GMScript":"v1",
+  "%Name":"score__",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"score__",
+  "parent":{
+    "name":"Global",
+    "path":"folders/Scripts/DARKSPINE/TweenGMS/Enhanced Properties/Default Properties/Global.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "score__",
-  "tags": [],
-  "resourceType": "GMScript",
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

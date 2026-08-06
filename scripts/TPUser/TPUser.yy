@@ -1,12 +1,13 @@
 {
-  "isDnD": false,
-  "isCompatibility": false,
-  "parent": {
-    "name": "User Events",
-    "path": "folders/Scripts/DARKSPINE/TweenGMS/Enhanced Properties/Default Properties/User Events.yy",
+  "$GMScript":"v1",
+  "%Name":"TPUser",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"TPUser",
+  "parent":{
+    "name":"User Events",
+    "path":"folders/Scripts/DARKSPINE/TweenGMS/Enhanced Properties/Default Properties/User Events.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "TPUser",
-  "tags": [],
-  "resourceType": "GMScript",
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

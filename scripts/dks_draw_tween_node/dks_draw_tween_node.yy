@@ -1,12 +1,13 @@
 {
-  "isDnD": false,
-  "isCompatibility": false,
-  "parent": {
-    "name": "DRAW METHODS",
-    "path": "folders/Scripts/DARKSPINE/DRAW METHODS.yy",
+  "$GMScript":"v1",
+  "%Name":"dks_draw_tween_node",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"dks_draw_tween_node",
+  "parent":{
+    "name":"DRAW METHODS",
+    "path":"folders/Scripts/DARKSPINE/DRAW METHODS.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "dks_draw_tween_node",
-  "tags": [],
-  "resourceType": "GMScript",
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

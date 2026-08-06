@@ -1,12 +1,13 @@
 {
-  "isDnD": false,
-  "isCompatibility": false,
-  "parent": {
-    "name": "LAYER MENU",
-    "path": "folders/Scripts/DARKSPINE/DARKSPINE CORE/LAYER MENU.yy",
+  "$GMScript":"v1",
+  "%Name":"dks_layer_lock",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"dks_layer_lock",
+  "parent":{
+    "name":"LAYER MENU",
+    "path":"folders/Scripts/DARKSPINE/DARKSPINE CORE/LAYER MENU.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "dks_layer_lock",
-  "tags": [],
-  "resourceType": "GMScript",
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

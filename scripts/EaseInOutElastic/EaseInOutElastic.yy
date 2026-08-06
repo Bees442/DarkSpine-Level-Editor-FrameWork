@@ -1,12 +1,13 @@
 {
-  "isDnD": false,
-  "isCompatibility": false,
-  "parent": {
-    "name": "Ease Algorithms",
-    "path": "folders/Scripts/DARKSPINE/TweenGMS/Ease Algorithms.yy",
+  "$GMScript":"v1",
+  "%Name":"EaseInOutElastic",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"EaseInOutElastic",
+  "parent":{
+    "name":"Ease Algorithms",
+    "path":"folders/Scripts/DARKSPINE/TweenGMS/Ease Algorithms.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "EaseInOutElastic",
-  "tags": [],
-  "resourceType": "GMScript",
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

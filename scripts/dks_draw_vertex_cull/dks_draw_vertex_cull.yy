@@ -1,12 +1,13 @@
 {
-  "isDnD": false,
-  "isCompatibility": false,
-  "parent": {
-    "name": "DRAW METHODS",
-    "path": "folders/Scripts/DARKSPINE/DRAW METHODS.yy",
+  "$GMScript":"v1",
+  "%Name":"dks_draw_vertex_cull",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"dks_draw_vertex_cull",
+  "parent":{
+    "name":"DRAW METHODS",
+    "path":"folders/Scripts/DARKSPINE/DRAW METHODS.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "dks_draw_vertex_cull",
-  "tags": [],
-  "resourceType": "GMScript",
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

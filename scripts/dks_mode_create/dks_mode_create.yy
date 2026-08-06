@@ -1,12 +1,13 @@
 {
-  "isDnD": false,
-  "isCompatibility": false,
-  "parent": {
-    "name": " MODES SETTERS",
-    "path": "folders/Scripts/DARKSPINE/DARKSPINE CORE/ MODES SETTERS.yy",
+  "$GMScript":"v1",
+  "%Name":"dks_mode_create",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"dks_mode_create",
+  "parent":{
+    "name":" MODES SETTERS",
+    "path":"folders/Scripts/DARKSPINE/DARKSPINE CORE/ MODES SETTERS.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "dks_mode_create",
-  "tags": [],
-  "resourceType": "GMScript",
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

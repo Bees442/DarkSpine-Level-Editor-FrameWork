@@ -1,12 +1,13 @@
 {
-  "isDnD": false,
-  "isCompatibility": false,
-  "parent": {
-    "name": "UPDATES",
-    "path": "folders/Scripts/DARKSPINE/DARKSPINE CORE/UPDATES.yy",
+  "$GMScript":"v1",
+  "%Name":"dks_upgrade_0_837",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"dks_upgrade_0_837",
+  "parent":{
+    "name":"UPDATES",
+    "path":"folders/Scripts/DARKSPINE/DARKSPINE CORE/UPDATES.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "dks_upgrade_0_837",
-  "tags": [],
-  "resourceType": "GMScript",
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

@@ -1,12 +1,13 @@
 {
-  "isDnD": false,
-  "isCompatibility": false,
-  "parent": {
-    "name": "SPINE SCRIPTS",
-    "path": "folders/Scripts/DARKSPINE/DARKSPINE CORE/SPINE SCRIPTS.yy",
+  "$GMScript":"v1",
+  "%Name":"dks_spine_node_scale",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"dks_spine_node_scale",
+  "parent":{
+    "name":"SPINE SCRIPTS",
+    "path":"folders/Scripts/DARKSPINE/DARKSPINE CORE/SPINE SCRIPTS.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "dks_spine_node_scale",
-  "tags": [],
-  "resourceType": "GMScript",
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

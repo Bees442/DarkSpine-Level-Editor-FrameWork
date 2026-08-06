@@ -1,12 +1,13 @@
 {
-  "isDnD": false,
-  "isCompatibility": false,
-  "parent": {
-    "name": "Player",
-    "path": "folders/Scripts/DARKSPINE/OBJECT SCRIPTING/Player.yy",
+  "$GMScript":"v1",
+  "%Name":"dks_state_switch",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"dks_state_switch",
+  "parent":{
+    "name":"Player",
+    "path":"folders/Scripts/DARKSPINE/OBJECT SCRIPTING/Player.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "dks_state_switch",
-  "tags": [],
-  "resourceType": "GMScript",
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

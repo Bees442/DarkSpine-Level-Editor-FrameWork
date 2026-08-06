@@ -1,12 +1,13 @@
 {
-  "isDnD": false,
-  "isCompatibility": false,
-  "parent": {
-    "name": "Tween Destroy",
-    "path": "folders/Scripts/DARKSPINE/TweenGMS/Tweening/Tween Destroy.yy",
+  "$GMScript":"v1",
+  "%Name":"TweenDestroySafe",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"TweenDestroySafe",
+  "parent":{
+    "name":"Tween Destroy",
+    "path":"folders/Scripts/DARKSPINE/TweenGMS/Tweening/Tween Destroy.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "TweenDestroySafe",
-  "tags": [],
-  "resourceType": "GMScript",
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

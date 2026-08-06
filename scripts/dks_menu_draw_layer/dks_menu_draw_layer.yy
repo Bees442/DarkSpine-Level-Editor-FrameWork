@@ -1,12 +1,13 @@
 {
-  "isDnD": false,
-  "isCompatibility": false,
-  "parent": {
-    "name": "CREATE MODE",
-    "path": "folders/Scripts/DARKSPINE/DARKSPINE CORE/CREATE MODE.yy",
+  "$GMScript":"v1",
+  "%Name":"dks_menu_draw_layer",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"dks_menu_draw_layer",
+  "parent":{
+    "name":"CREATE MODE",
+    "path":"folders/Scripts/DARKSPINE/DARKSPINE CORE/CREATE MODE.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "dks_menu_draw_layer",
-  "tags": [],
-  "resourceType": "GMScript",
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

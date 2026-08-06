@@ -1,12 +1,13 @@
 {
-  "isDnD": false,
-  "isCompatibility": false,
-  "parent": {
-    "name": "MATHS",
-    "path": "folders/Scripts/DARKSPINE/DARKSPINE CORE/MATHS.yy",
+  "$GMScript":"v1",
+  "%Name":"point_in_polygon",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"point_in_polygon",
+  "parent":{
+    "name":"MATHS",
+    "path":"folders/Scripts/DARKSPINE/DARKSPINE CORE/MATHS.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "point_in_polygon",
-  "tags": [],
-  "resourceType": "GMScript",
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

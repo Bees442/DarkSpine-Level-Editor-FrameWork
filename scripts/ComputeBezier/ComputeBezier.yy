@@ -1,12 +1,13 @@
 {
-  "isDnD": false,
-  "isCompatibility": false,
-  "parent": {
-    "name": "MATHS",
-    "path": "folders/Scripts/DARKSPINE/DARKSPINE CORE/MATHS.yy",
+  "$GMScript":"v1",
+  "%Name":"ComputeBezier",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"ComputeBezier",
+  "parent":{
+    "name":"MATHS",
+    "path":"folders/Scripts/DARKSPINE/DARKSPINE CORE/MATHS.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "ComputeBezier",
-  "tags": [],
-  "resourceType": "GMScript",
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

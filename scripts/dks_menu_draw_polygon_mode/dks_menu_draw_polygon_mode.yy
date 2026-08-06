@@ -1,12 +1,13 @@
 {
-  "isDnD": false,
-  "isCompatibility": false,
-  "parent": {
-    "name": "MENU DRAWS",
-    "path": "folders/Scripts/DARKSPINE/DARKSPINE CORE/EDITOR GUI/MENU DRAWS.yy",
+  "$GMScript":"v1",
+  "%Name":"dks_menu_draw_polygon_mode",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"dks_menu_draw_polygon_mode",
+  "parent":{
+    "name":"MENU DRAWS",
+    "path":"folders/Scripts/DARKSPINE/DARKSPINE CORE/EDITOR GUI/MENU DRAWS.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "dks_menu_draw_polygon_mode",
-  "tags": [],
-  "resourceType": "GMScript",
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

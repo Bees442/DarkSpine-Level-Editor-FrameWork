@@ -1,12 +1,13 @@
 {
-  "isDnD": false,
-  "isCompatibility": false,
-  "parent": {
-    "name": "Tween Control",
-    "path": "folders/Scripts/DARKSPINE/TweenGMS/Tweening/Tween Control.yy",
+  "$GMScript":"v1",
+  "%Name":"TweenResume",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"TweenResume",
+  "parent":{
+    "name":"Tween Control",
+    "path":"folders/Scripts/DARKSPINE/TweenGMS/Tweening/Tween Control.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "TweenResume",
-  "tags": [],
-  "resourceType": "GMScript",
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

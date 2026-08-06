@@ -1,12 +1,13 @@
 {
-  "isDnD": false,
-  "isCompatibility": false,
-  "parent": {
-    "name": "Polygon",
-    "path": "folders/Scripts/DARKSPINE/DARKSPINE CORE/VERTEX MODE/Polygon.yy",
+  "$GMScript":"v1",
+  "%Name":"scr_vertex_add_point_col",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_vertex_add_point_col",
+  "parent":{
+    "name":"Polygon",
+    "path":"folders/Scripts/DARKSPINE/DARKSPINE CORE/VERTEX MODE/Polygon.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "scr_vertex_add_point_col",
-  "tags": [],
-  "resourceType": "GMScript",
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

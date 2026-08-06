@@ -1,12 +1,13 @@
 {
-  "isDnD": false,
-  "isCompatibility": false,
-  "parent": {
-    "name": "OBJECT SCRIPTING",
-    "path": "folders/Scripts/DARKSPINE/OBJECT SCRIPTING.yy",
+  "$GMScript":"v1",
+  "%Name":"dks_spawn_text",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"dks_spawn_text",
+  "parent":{
+    "name":"OBJECT SCRIPTING",
+    "path":"folders/Scripts/DARKSPINE/OBJECT SCRIPTING.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "dks_spawn_text",
-  "tags": [],
-  "resourceType": "GMScript",
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

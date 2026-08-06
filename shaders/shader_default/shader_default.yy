@@ -1,11 +1,12 @@
 {
-  "type": 1,
-  "parent": {
-    "name": "DARKSPINE",
-    "path": "folders/Shaders/DARKSPINE.yy",
+  "$GMShader":"",
+  "%Name":"shader_default",
+  "name":"shader_default",
+  "parent":{
+    "name":"DARKSPINE",
+    "path":"folders/Shaders/DARKSPINE.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "shader_default",
-  "tags": [],
-  "resourceType": "GMShader",
+  "resourceType":"GMShader",
+  "resourceVersion":"2.0",
+  "type":1,
 }

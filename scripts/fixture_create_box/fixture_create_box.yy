@@ -1,12 +1,13 @@
 {
-  "isDnD": false,
-  "isCompatibility": false,
-  "parent": {
-    "name": "Physics",
-    "path": "folders/Scripts/DARKSPINE/DARKSPINE CORE/VERTEX MODE/Physics.yy",
+  "$GMScript":"v1",
+  "%Name":"fixture_create_box",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"fixture_create_box",
+  "parent":{
+    "name":"Physics",
+    "path":"folders/Scripts/DARKSPINE/DARKSPINE CORE/VERTEX MODE/Physics.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "fixture_create_box",
-  "tags": [],
-  "resourceType": "GMScript",
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

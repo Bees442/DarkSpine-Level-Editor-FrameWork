@@ -1,12 +1,13 @@
 {
-  "isDnD": false,
-  "isCompatibility": false,
-  "parent": {
-    "name": "OBJECT SETTERS",
-    "path": "folders/Scripts/DARKSPINE/DARKSPINE CORE/EDITOR GUI/GUI SETTERS/OBJECT SETTERS.yy",
+  "$GMScript":"v1",
+  "%Name":"dks_gui_object_copy",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"dks_gui_object_copy",
+  "parent":{
+    "name":"OBJECT SETTERS",
+    "path":"folders/Scripts/DARKSPINE/DARKSPINE CORE/EDITOR GUI/GUI SETTERS/OBJECT SETTERS.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "dks_gui_object_copy",
-  "tags": [],
-  "resourceType": "GMScript",
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

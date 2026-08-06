@@ -1,12 +1,13 @@
 {
-  "isDnD": false,
-  "isCompatibility": false,
-  "parent": {
-    "name": "TWEEN CUSTOM",
-    "path": "folders/Scripts/DARKSPINE/TweenGMS/TWEEN CUSTOM.yy",
+  "$GMScript":"v1",
+  "%Name":"xrotation__",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"xrotation__",
+  "parent":{
+    "name":"TWEEN CUSTOM",
+    "path":"folders/Scripts/DARKSPINE/TweenGMS/TWEEN CUSTOM.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "xrotation__",
-  "tags": [],
-  "resourceType": "GMScript",
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

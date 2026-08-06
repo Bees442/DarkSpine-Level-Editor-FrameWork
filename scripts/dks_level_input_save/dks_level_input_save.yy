@@ -1,12 +1,13 @@
 {
-  "isDnD": false,
-  "isCompatibility": false,
-  "parent": {
-    "name": "LEVEL MENU",
-    "path": "folders/Scripts/DARKSPINE/DARKSPINE CORE/LEVEL MENU.yy",
+  "$GMScript":"v1",
+  "%Name":"dks_level_input_save",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"dks_level_input_save",
+  "parent":{
+    "name":"LEVEL MENU",
+    "path":"folders/Scripts/DARKSPINE/DARKSPINE CORE/LEVEL MENU.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "dks_level_input_save",
-  "tags": [],
-  "resourceType": "GMScript",
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

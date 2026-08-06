@@ -1,12 +1,13 @@
 {
-  "isDnD": false,
-  "isCompatibility": false,
-  "parent": {
-    "name": "Polygon",
-    "path": "folders/Scripts/DARKSPINE/DARKSPINE CORE/VERTEX MODE/Polygon.yy",
+  "$GMScript":"v1",
+  "%Name":"dks_vertex_scale_simple",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"dks_vertex_scale_simple",
+  "parent":{
+    "name":"Polygon",
+    "path":"folders/Scripts/DARKSPINE/DARKSPINE CORE/VERTEX MODE/Polygon.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "dks_vertex_scale_simple",
-  "tags": [],
-  "resourceType": "GMScript",
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

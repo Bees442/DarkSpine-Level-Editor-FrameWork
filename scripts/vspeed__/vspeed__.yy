@@ -1,12 +1,13 @@
 {
-  "isDnD": false,
-  "isCompatibility": false,
-  "parent": {
-    "name": "Instance",
-    "path": "folders/Scripts/DARKSPINE/TweenGMS/Enhanced Properties/Default Properties/Instance.yy",
+  "$GMScript":"v1",
+  "%Name":"vspeed__",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"vspeed__",
+  "parent":{
+    "name":"Instance",
+    "path":"folders/Scripts/DARKSPINE/TweenGMS/Enhanced Properties/Default Properties/Instance.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "vspeed__",
-  "tags": [],
-  "resourceType": "GMScript",
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

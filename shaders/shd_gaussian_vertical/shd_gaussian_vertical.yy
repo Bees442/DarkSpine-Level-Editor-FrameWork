@@ -1,11 +1,12 @@
 {
-  "type": 1,
-  "parent": {
-    "name": "DARKSPINE",
-    "path": "folders/Shaders/DARKSPINE.yy",
+  "$GMShader":"",
+  "%Name":"shd_gaussian_vertical",
+  "name":"shd_gaussian_vertical",
+  "parent":{
+    "name":"DARKSPINE",
+    "path":"folders/Shaders/DARKSPINE.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "shd_gaussian_vertical",
-  "tags": [],
-  "resourceType": "GMShader",
+  "resourceType":"GMShader",
+  "resourceVersion":"2.0",
+  "type":1,
 }

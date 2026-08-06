@@ -1,12 +1,13 @@
 {
-  "isDnD": false,
-  "isCompatibility": false,
-  "parent": {
-    "name": "System Utilities",
-    "path": "folders/Scripts/DARKSPINE/TweenGMS/System Utilities.yy",
+  "$GMScript":"v1",
+  "%Name":"SharedTweenerDestroy",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"SharedTweenerDestroy",
+  "parent":{
+    "name":"System Utilities",
+    "path":"folders/Scripts/DARKSPINE/TweenGMS/System Utilities.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "SharedTweenerDestroy",
-  "tags": [],
-  "resourceType": "GMScript",
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

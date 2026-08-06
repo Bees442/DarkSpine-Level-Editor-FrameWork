@@ -36,7 +36,31 @@ function TGMS_TweensExecute() {
 
 	var _tweensString = argument[0];
 	var _selection = real(string_char_at(_tweensString,1));
-	var _selectionData = real(string_delete(_tweensString,1,1));
+	var _selectionDataString = string_delete(_tweensString,1,1);
+
+	// Tolerate the GM 2026 "ref instance 100010" form as well as the bare
+	// numeric form. TweensTarget() now normalises to digits before encoding,
+	// but tween strings built elsewhere may still carry the reference text.
+	// Sign is preserved so negative TweensGroup() values still round-trip.
+	var _selectionData;
+	if (string_digits(_selectionDataString) == string_replace(_selectionDataString, "-", ""))
+	{
+	    _selectionData = real(_selectionDataString);
+	}
+	else
+	{
+	    _selectionData = real(string_digits(_selectionDataString));
+	}
+
+	// TweensTarget() accepts either an instance or an object index. Only the
+	// latter is a legal argument to object_is_ancestor() -- older runtimes
+	// returned false for an out-of-range index, but GM 2026 raises a hard
+	// error, so the ancestor test has to be gated on the value being one.
+	// Instance ids start at 100000, so anything at or above that is never an
+	// object index; check the range before calling object_exists() so it is
+	// not handed an out-of-range value either.
+	var _selectionIsObject = (_selectionData >= 0 && _selectionData < 100000
+	                          && object_exists(_selectionData));
 	var _script = argument[1];
 	var _argCount = argument_count-2;
 	var _arg0,_arg1,_arg2;
@@ -159,7 +183,7 @@ function TGMS_TweensExecute() {
 	                var _target = _t[TWEEN.TARGET];
                 
 	                if (TGMS_TargetExists(_target))
-	                if (_target == _selectionData || _target.object_index == _selectionData || object_is_ancestor(_target.object_index, _selectionData)){
+	                if (_target == _selectionData || _target.object_index == _selectionData || (_selectionIsObject && object_is_ancestor(_target.object_index, _selectionData))){
 	                    script_execute(_script, _t);
 	                }
 	            }
@@ -170,7 +194,7 @@ function TGMS_TweensExecute() {
 	                var _target = _t[TWEEN.TARGET];
                 
 	                if (TGMS_TargetExists(_target))
-	                if (_target == _selectionData || _target.object_index == _selectionData || object_is_ancestor(_target.object_index, _selectionData)){
+	                if (_target == _selectionData || _target.object_index == _selectionData || (_selectionIsObject && object_is_ancestor(_target.object_index, _selectionData))){
 	                    script_execute(_script, _t, _arg0);
 	                }
 	            }
@@ -181,7 +205,7 @@ function TGMS_TweensExecute() {
 	                var _target = _t[TWEEN.TARGET];
                 
 	                if (TGMS_TargetExists(_target))
-	                if (_target == _selectionData || _target.object_index == _selectionData || object_is_ancestor(_target.object_index, _selectionData)){
+	                if (_target == _selectionData || _target.object_index == _selectionData || (_selectionIsObject && object_is_ancestor(_target.object_index, _selectionData))){
 	                    script_execute(_script, _t, _arg0, _arg1);
 	                }
 	            }
@@ -192,7 +216,7 @@ function TGMS_TweensExecute() {
 	                var _target = _t[TWEEN.TARGET];
                 
 	                if (TGMS_TargetExists(_target))
-	                if (_target == _selectionData || _target.object_index == _selectionData || object_is_ancestor(_target.object_index, _selectionData)){
+	                if (_target == _selectionData || _target.object_index == _selectionData || (_selectionIsObject && object_is_ancestor(_target.object_index, _selectionData))){
 	                    script_execute(_script, _t, _arg0, _arg1, _arg2);
 	                }
 	            }

@@ -1,12 +1,13 @@
 {
-  "isDnD": false,
-  "isCompatibility": false,
-  "parent": {
-    "name": "TWEEN ENGINE",
-    "path": "folders/Scripts/DARKSPINE/DARKSPINE CORE/TWEEN ENGINE.yy",
+  "$GMScript":"v1",
+  "%Name":"dks_tweener_insert_tweens",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"dks_tweener_insert_tweens",
+  "parent":{
+    "name":"TWEEN ENGINE",
+    "path":"folders/Scripts/DARKSPINE/DARKSPINE CORE/TWEEN ENGINE.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "dks_tweener_insert_tweens",
-  "tags": [],
-  "resourceType": "GMScript",
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

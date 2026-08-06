@@ -1,12 +1,13 @@
 {
-  "isDnD": false,
-  "isCompatibility": false,
-  "parent": {
-    "name": "Default Properties",
-    "path": "folders/Scripts/DARKSPINE/TweenGMS/Enhanced Properties/Default Properties.yy",
+  "$GMScript":"v1",
+  "%Name":"TGMS_BuildDefaultProperties",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"TGMS_BuildDefaultProperties",
+  "parent":{
+    "name":"Default Properties",
+    "path":"folders/Scripts/DARKSPINE/TweenGMS/Enhanced Properties/Default Properties.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "TGMS_BuildDefaultProperties",
-  "tags": [],
-  "resourceType": "GMScript",
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

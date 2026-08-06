@@ -1,10 +1,11 @@
 {
-  "parent": {
-    "name": "Notes",
-    "path": "folders/Notes.yy",
+  "$GMNotes":"v1",
+  "%Name":"DarkSpine_Updates",
+  "name":"DarkSpine_Updates",
+  "parent":{
+    "name":"Notes",
+    "path":"folders/Notes.yy",
   },
-  "resourceVersion": "1.1",
-  "name": "DarkSpine_Updates",
-  "tags": [],
-  "resourceType": "GMNotes",
+  "resourceType":"GMNotes",
+  "resourceVersion":"2.0",
 }

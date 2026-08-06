@@ -1,12 +1,13 @@
 {
-  "isDnD": false,
-  "isCompatibility": false,
-  "parent": {
-    "name": "BUTTONS",
-    "path": "folders/Scripts/DARKSPINE/DARKSPINE CORE/EDITOR GUI/BUTTON_INPUT SCRIPTS/BUTTONS.yy",
+  "$GMScript":"v1",
+  "%Name":"dks_button_press",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"dks_button_press",
+  "parent":{
+    "name":"BUTTONS",
+    "path":"folders/Scripts/DARKSPINE/DARKSPINE CORE/EDITOR GUI/BUTTON_INPUT SCRIPTS/BUTTONS.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "dks_button_press",
-  "tags": [],
-  "resourceType": "GMScript",
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

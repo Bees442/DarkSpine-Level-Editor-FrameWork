@@ -35,7 +35,10 @@ highlight_vertex_draw[0] = 0;
 highlight_vertex_draw[1] = 0;
 highlight_vertex_draw[2] = 0;
 highlight_vertex_draw[3] = 0;
-//display_reset(a_a,vsync);
+// Apply the initial vsync/AA state for real. Leaving this commented out let
+// the vsync variable claim "on" while the GPU kept whatever the system
+// default was, so the first V-SYNC press appeared to do nothing.
+display_reset(a_a,vsync);
 // The nearest object that can be selected with the mouse
 near = noone;
 //sprite-show surface ( The surface used to show sprites on the Sprite Menu

@@ -1,12 +1,13 @@
 {
-  "isDnD": false,
-  "isCompatibility": false,
-  "parent": {
-    "name": "TWEEN CUSTOM",
-    "path": "folders/Scripts/DARKSPINE/TweenGMS/TWEEN CUSTOM.yy",
+  "$GMScript":"v1",
+  "%Name":"dks_event_perform",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"dks_event_perform",
+  "parent":{
+    "name":"TWEEN CUSTOM",
+    "path":"folders/Scripts/DARKSPINE/TweenGMS/TWEEN CUSTOM.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "dks_event_perform",
-  "tags": [],
-  "resourceType": "GMScript",
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

@@ -1,12 +1,13 @@
 {
-  "isDnD": false,
-  "isCompatibility": false,
-  "parent": {
-    "name": "Tween Define",
-    "path": "folders/Scripts/DARKSPINE/TweenGMS/Tweening/Tween Define.yy",
+  "$GMScript":"v1",
+  "%Name":"TGMS_TweenDefine",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"TGMS_TweenDefine",
+  "parent":{
+    "name":"Tween Define",
+    "path":"folders/Scripts/DARKSPINE/TweenGMS/Tweening/Tween Define.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "TGMS_TweenDefine",
-  "tags": [],
-  "resourceType": "GMScript",
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

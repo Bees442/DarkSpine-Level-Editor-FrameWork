@@ -1,12 +1,13 @@
 {
-  "isDnD": false,
-  "isCompatibility": false,
-  "parent": {
-    "name": "Tween Tools",
-    "path": "folders/Scripts/DARKSPINE/TweenGMS/Tweening/Tween Tools.yy",
+  "$GMScript":"v1",
+  "%Name":"TweenStep",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"TweenStep",
+  "parent":{
+    "name":"Tween Tools",
+    "path":"folders/Scripts/DARKSPINE/TweenGMS/Tweening/Tween Tools.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "TweenStep",
-  "tags": [],
-  "resourceType": "GMScript",
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

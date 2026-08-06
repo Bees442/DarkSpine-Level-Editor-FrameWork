@@ -1,12 +1,13 @@
 {
-  "isDnD": false,
-  "isCompatibility": false,
-  "parent": {
-    "name": "WORKSPACE",
-    "path": "folders/Scripts/DARKSPINE/DARKSPINE CORE/WORKSPACE.yy",
+  "$GMScript":"v1",
+  "%Name":"dks_work_stop",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"dks_work_stop",
+  "parent":{
+    "name":"WORKSPACE",
+    "path":"folders/Scripts/DARKSPINE/DARKSPINE CORE/WORKSPACE.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "dks_work_stop",
-  "tags": [],
-  "resourceType": "GMScript",
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

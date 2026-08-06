@@ -1,15 +1,8 @@
-function dks_gui_vsync_set() 
+function dks_gui_vsync_set()
 {
-	if(vsync = false)
-	{
-	 display_reset(a_a,true);
-	 vsync = true;
-	 dks_message("Vsync_enabled");
-	}
-	else
-	{
-	 display_reset(a_a,false);
-	 vsync = false;
-	 dks_message("Vsync_disabled");
-	}
+	// Was written as "if (vsync = false)" -- valid GML, but a single '=' in a
+	// condition reads as an assignment and is easy to misedit later.
+	vsync = !vsync;
+	display_reset(a_a, vsync);
+	dks_message(vsync ? "Vsync_enabled" : "Vsync_disabled");
 }

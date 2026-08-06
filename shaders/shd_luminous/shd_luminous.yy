@@ -1,11 +1,12 @@
 {
-  "type": 1,
-  "parent": {
-    "name": "DARKSPINE",
-    "path": "folders/Shaders/DARKSPINE.yy",
+  "$GMShader":"",
+  "%Name":"shd_luminous",
+  "name":"shd_luminous",
+  "parent":{
+    "name":"DARKSPINE",
+    "path":"folders/Shaders/DARKSPINE.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "shd_luminous",
-  "tags": [],
-  "resourceType": "GMShader",
+  "resourceType":"GMShader",
+  "resourceVersion":"2.0",
+  "type":1,
 }

@@ -1,12 +1,13 @@
 {
-  "isDnD": false,
-  "isCompatibility": false,
-  "parent": {
-    "name": "Physics",
-    "path": "folders/Scripts/DARKSPINE/DARKSPINE CORE/VERTEX MODE/Physics.yy",
+  "$GMScript":"v1",
+  "%Name":"dks_setter_joint_revolute",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"dks_setter_joint_revolute",
+  "parent":{
+    "name":"Physics",
+    "path":"folders/Scripts/DARKSPINE/DARKSPINE CORE/VERTEX MODE/Physics.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "dks_setter_joint_revolute",
-  "tags": [],
-  "resourceType": "GMScript",
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

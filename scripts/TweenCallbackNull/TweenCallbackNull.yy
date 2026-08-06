@@ -1,12 +1,13 @@
 {
-  "isDnD": false,
-  "isCompatibility": false,
-  "parent": {
-    "name": "Tween Callbacks",
-    "path": "folders/Scripts/DARKSPINE/TweenGMS/Tweening/Tween Events/Tween Callbacks.yy",
+  "$GMScript":"v1",
+  "%Name":"TweenCallbackNull",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"TweenCallbackNull",
+  "parent":{
+    "name":"Tween Callbacks",
+    "path":"folders/Scripts/DARKSPINE/TweenGMS/Tweening/Tween Events/Tween Callbacks.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "TweenCallbackNull",
-  "tags": [],
-  "resourceType": "GMScript",
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

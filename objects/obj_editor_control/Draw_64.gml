@@ -10,6 +10,13 @@ else
  draw_sprite(spr_play_work,0,button_play[0][0],button_play[0][1]);
 }
 
+// FPS readout, drawn here so it is visible both in the editor and while a
+// level is playing.
+if (global.show_fps)
+{
+ dks_draw_fps();
+}
+
 
 
 

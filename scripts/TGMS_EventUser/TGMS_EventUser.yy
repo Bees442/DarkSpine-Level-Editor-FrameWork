@@ -1,12 +1,13 @@
 {
-  "isDnD": false,
-  "isCompatibility": false,
-  "parent": {
-    "name": "Support (DO NOT TOUCH)",
-    "path": "folders/Scripts/DARKSPINE/TweenGMS/Support (DO NOT TOUCH).yy",
+  "$GMScript":"v1",
+  "%Name":"TGMS_EventUser",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"TGMS_EventUser",
+  "parent":{
+    "name":"Support (DO NOT TOUCH)",
+    "path":"folders/Scripts/DARKSPINE/TweenGMS/Support (DO NOT TOUCH).yy",
   },
-  "resourceVersion": "1.0",
-  "name": "TGMS_EventUser",
-  "tags": [],
-  "resourceType": "GMScript",
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

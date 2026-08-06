@@ -1,11 +1,12 @@
 {
-  "type": 1,
-  "parent": {
-    "name": "DARKSPINE",
-    "path": "folders/Shaders/DARKSPINE.yy",
+  "$GMShader":"",
+  "%Name":"shd_led",
+  "name":"shd_led",
+  "parent":{
+    "name":"DARKSPINE",
+    "path":"folders/Shaders/DARKSPINE.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "shd_led",
-  "tags": [],
-  "resourceType": "GMShader",
+  "resourceType":"GMShader",
+  "resourceVersion":"2.0",
+  "type":1,
 }

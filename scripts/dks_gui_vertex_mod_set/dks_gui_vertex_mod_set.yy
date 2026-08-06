@@ -1,12 +1,13 @@
 {
-  "isDnD": false,
-  "isCompatibility": false,
-  "parent": {
-    "name": "VERTEX",
-    "path": "folders/Scripts/DARKSPINE/DARKSPINE CORE/EDITOR GUI/GUI SETTERS/VERTEX.yy",
+  "$GMScript":"v1",
+  "%Name":"dks_gui_vertex_mod_set",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"dks_gui_vertex_mod_set",
+  "parent":{
+    "name":"VERTEX",
+    "path":"folders/Scripts/DARKSPINE/DARKSPINE CORE/EDITOR GUI/GUI SETTERS/VERTEX.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "dks_gui_vertex_mod_set",
-  "tags": [],
-  "resourceType": "GMScript",
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

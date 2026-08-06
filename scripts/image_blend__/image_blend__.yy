@@ -1,12 +1,13 @@
 {
-  "isDnD": false,
-  "isCompatibility": false,
-  "parent": {
-    "name": "Instance",
-    "path": "folders/Scripts/DARKSPINE/TweenGMS/Enhanced Properties/Default Properties/Instance.yy",
+  "$GMScript":"v1",
+  "%Name":"image_blend__",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"image_blend__",
+  "parent":{
+    "name":"Instance",
+    "path":"folders/Scripts/DARKSPINE/TweenGMS/Enhanced Properties/Default Properties/Instance.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "image_blend__",
-  "tags": [],
-  "resourceType": "GMScript",
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

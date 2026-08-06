@@ -1,12 +1,13 @@
 {
-  "isDnD": false,
-  "isCompatibility": false,
-  "parent": {
-    "name": "Physics",
-    "path": "folders/Scripts/DARKSPINE/DARKSPINE CORE/VERTEX MODE/Physics.yy",
+  "$GMScript":"v1",
+  "%Name":"dks_phyprops_create",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"dks_phyprops_create",
+  "parent":{
+    "name":"Physics",
+    "path":"folders/Scripts/DARKSPINE/DARKSPINE CORE/VERTEX MODE/Physics.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "dks_phyprops_create",
-  "tags": [],
-  "resourceType": "GMScript",
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

@@ -1,12 +1,13 @@
 {
-  "isDnD": false,
-  "isCompatibility": false,
-  "parent": {
-    "name": "VERTEX MODE",
-    "path": "folders/Scripts/DARKSPINE/DARKSPINE CORE/VERTEX MODE.yy",
+  "$GMScript":"v1",
+  "%Name":"dks_vertex_scale",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"dks_vertex_scale",
+  "parent":{
+    "name":"VERTEX MODE",
+    "path":"folders/Scripts/DARKSPINE/DARKSPINE CORE/VERTEX MODE.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "dks_vertex_scale",
-  "tags": [],
-  "resourceType": "GMScript",
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

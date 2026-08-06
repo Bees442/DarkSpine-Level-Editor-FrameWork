@@ -1,12 +1,13 @@
 {
-  "isDnD": false,
-  "isCompatibility": false,
-  "parent": {
-    "name": "INFO & QUESTIONS",
-    "path": "folders/Scripts/DARKSPINE/DARKSPINE CORE/INFO & QUESTIONS.yy",
+  "$GMScript":"v1",
+  "%Name":"dks_question",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"dks_question",
+  "parent":{
+    "name":"INFO & QUESTIONS",
+    "path":"folders/Scripts/DARKSPINE/DARKSPINE CORE/INFO & QUESTIONS.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "dks_question",
-  "tags": [],
-  "resourceType": "GMScript",
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }
